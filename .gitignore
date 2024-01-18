@@ -1,8 +1,7 @@
 .idea/
 *.iml
 .venv/
-# airflow/
-# !airflow/dags/
+airflow/
 pokemon.txt
 # todo: wip
 README.md
