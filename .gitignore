@@ -1,5 +1,6 @@
 .idea/
 *.iml
+
 .venv/
 airflow/
 pokemon.txt
